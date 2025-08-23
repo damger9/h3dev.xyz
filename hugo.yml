@@ -7,6 +7,7 @@ pagesize: 5
 params:
   env: production
   title: "h3dev.xyz"
+  hideFooter: true
   profileMode:
     enabled: true
     buttons:
