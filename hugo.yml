@@ -1,0 +1,14 @@
+baseURL: "https://h3dev.xyz/"
+languageCode: "en-us"
+title: "h3dev.xyz"
+theme: "PaperMod"
+pagesize: 5
+
+params:
+  env: production
+  title: "h3dev.xyz"
+  profileMode:
+    enabled: true
+    buttons:
+      - name: Posts
+        url: posts
