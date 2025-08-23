@@ -12,4 +12,4 @@ params:
         enabled: true
         buttons:
             - name: Posts
-                url: posts
+              url: posts
