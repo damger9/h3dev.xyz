@@ -8,8 +8,16 @@ params:
     env: production
     title: "h3dev.xyz"
     hideFooter: true
+    editPosts:
+        URL: "https://github.com/damger9/h3dev.xyz/content"
+        Text: "Found a mistake?"
+        appendFilePath: true
     profileMode:
         enabled: true
+        title: "h3dev.xyz"
+        subtitle: "Not_H3's Portfolio/Blog site"
         buttons:
             - name: Posts
               url: posts
+            - name: Projects
+              url: projects
