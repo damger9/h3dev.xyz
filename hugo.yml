@@ -7,7 +7,7 @@ pagesize: 5
 params:
     env: production
     title: "h3dev.xyz"
-    hideFooter: true
+    hideFooter: false
     editPosts:
         URL: "https://github.com/damger9/h3dev.xyz/content"
         Text: "Found a mistake?"
