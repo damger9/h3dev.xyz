@@ -13,7 +13,7 @@ params:
         Text: "Found a mistake?"
         appendFilePath: true
     profileMode:
-        enabled: true
+        enabled: false
         title: "h3dev.xyz"
         subtitle: "Not_H3's Portfolio/Blog site"
         buttons:
